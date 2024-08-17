@@ -1,4 +1,4 @@
-enum OrderStatus {
+export enum OrderStatus {
     Created = "created",
     AwaitingPayment = "awaiting:payment",
     Complete = "complete",
